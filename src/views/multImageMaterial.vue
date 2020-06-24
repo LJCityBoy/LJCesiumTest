@@ -7,7 +7,7 @@
 <script>
 import * as Cesium from "cesium/Cesium";
 export default {
-  name: "multMaterial",
+  name: "multImageMaterial",
   components: {},
   data() {
     return {
@@ -67,6 +67,7 @@ export default {
           rotation += 0.005;
           return rotation
       }
+
       let textEnty = self.viewer.entities.add({
         name: "Rotating rectangle with rotating texture coordinate",
         rectangle: {

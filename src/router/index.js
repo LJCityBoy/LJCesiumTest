@@ -22,8 +22,23 @@ Vue.use(VueRouter)
   },
   {
     path:'/multImageMaterial',
-    name:'material',
+    name:'multImageMaterial',
     component:() => import('@/views/multImageMaterial.vue') 
+  },
+  {
+    path:'/multImageMaterial2',
+    name:'multImageMaterial2',
+    component:() => import('@/views/multImageMaterial2.vue') 
+  },
+  {
+    path:'/fly',
+    name:'fly',
+    component:() => import('@/views/fly.vue') 
+  },
+  {
+    path:'/water',
+    name:'water',
+    component:() => import('@/views/water.vue')
   }
 ]
 
