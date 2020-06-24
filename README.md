@@ -34,3 +34,5 @@ npm run lint
 See [Configuration Reference](https://cli.vuejs.org/config/).
 
 ## Ceisum 
+
+## 部分本地资源部署在本地iis上
