@@ -39,6 +39,11 @@ Vue.use(VueRouter)
     path:'/water',
     name:'water',
     component:() => import('@/views/water.vue')
+  },
+  {
+    path:'/geojson',
+    name:'geojson',
+    component:() => import('@/views/geojson.vue')
   }
 ]
 

@@ -15,9 +15,9 @@ export default {
   },
   mounted() {
     this.initCesium();
-    this.loadWater1(); //局部动态水1
+    // this.loadWater1(); //局部动态水1
     // this.loadWater2(); //局部动态水2
-    // this.loadWaterGlod(); //全球水
+    this.loadWaterGlod(); //全球水
   },
   methods: {
     //初始化
@@ -111,6 +111,7 @@ export default {
     },
     //动态水2
     loadWater2() {
+        //这个是网上抄的，写法都一样
       function applydjk_WaterMaterial(primitive, scene) {
         primitive.appearance.material = new Cesium.Material({
           fabric: {
@@ -219,9 +220,9 @@ export default {
               fabric: {
                 type: "Water",
                 uniforms: {
-                  specularMap: "http://192.168.188.93:8889/earthspec1k.jpg",
+                  specularMap: "http://192.168.188.65:8889/earthspec1k.jpg",
                   normalMap: Cesium.buildModuleUrl(
-                    "http://192.168.188.93:8889/waterNormals.jpg"
+                    "http://192.168.188.65:8889/waterNormals.jpg"
                   ),
                   frequency: 10000.0, //频率
                   animationSpeed: 0.1, //动画速度

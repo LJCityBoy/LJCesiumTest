@@ -1,0 +1,901 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    127.766172725,
+                    47.8615550446
+                ]
+            },
+            "properties": {
+                "OBJECTID_1": 1,
+                "OBJECTID": 1,
+                "TYPE": 100,
+                "SUBTYPE": 100,
+                "NAME": "黑龙江省",
+                "GB": 230000,
+                "AREA": "460000平方公里",
+                "Shape_Leng": 73.7262907135,
+                "Shape_Le_1": 66.3474370968,
+                "Shape_Area": 54.4614141097,
+                "InPoly_FID": 1,
+                "SimPgnFlag": 1,
+                "MaxSimpTol": 0.00899322046076,
+                "MinSimpTol": 0.00899322046076,
+                "x": 127.766172725,
+                "y": 47.8615550446
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    96.0427387998,
+                    35.6684130057
+                ]
+            },
+            "properties": {
+                "OBJECTID_1": 2,
+                "OBJECTID": 2,
+                "TYPE": 100,
+                "SUBTYPE": 100,
+                "NAME": "青海省",
+                "GB": 630000,
+                "AREA": "720000平方公里",
+                "Shape_Leng": 65.9644478687,
+                "Shape_Le_1": 60.7125010333,
+                "Shape_Area": 69.2954388659,
+                "InPoly_FID": 2,
+                "SimPgnFlag": 1,
+                "MaxSimpTol": 0.00899322046076,
+                "MinSimpTol": 0.00899322046076,
+                "x": 96.0427387998,
+                "y": 35.6684130057
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    108.868622143,
+                    35.1920981318
+                ]
+            },
+            "properties": {
+                "OBJECTID_1": 3,
+                "OBJECTID": 3,
+                "TYPE": 100,
+                "SUBTYPE": 100,
+                "NAME": "陕西省",
+                "GB": 610000,
+                "AREA": "210000平方公里",
+                "Shape_Leng": 43.6459275376,
+                "Shape_Le_1": 38.9313693196,
+                "Shape_Area": 20.3496949871,
+                "InPoly_FID": 3,
+                "SimPgnFlag": 1,
+                "MaxSimpTol": 0.00899322046076,
+                "MinSimpTol": 0.00899322046076,
+                "x": 108.868622143,
+                "y": 35.1920981318
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.874097326,
+                    30.0571730691
+                ]
+            },
+            "properties": {
+                "OBJECTID_1": 4,
+                "OBJECTID": 4,
+                "TYPE": 100,
+                "SUBTYPE": 100,
+                "NAME": "重庆市",
+                "GB": 500000,
+                "AREA": "82000平方公里",
+                "Shape_Leng": 32.1129581485,
+                "Shape_Le_1": 27.31515902,
+                "Shape_Area": 7.71389887532,
+                "InPoly_FID": 4,
+                "SimPgnFlag": 1,
+                "MaxSimpTol": 0.00899322046076,
+                "MinSimpTol": 0.00899322046076,
+                "x": 107.874097326,
+                "y": 30.0571730691
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    122.573228582,
+                    41.1606760456
+                ]
+            },
+            "properties": {
+                "OBJECTID_1": 5,
+                "OBJECTID": 5,
+                "TYPE": 100,
+                "SUBTYPE": 100,
+                "NAME": "辽宁省",
+                "GB": 210000,
+                "AREA": "150000平方公里",
+                "Shape_Leng": 31.5140217381,
+                "Shape_Le_1": 28.9460097166,
+                "Shape_Area": 17.0052186223,
+                "InPoly_FID": 5,
+                "SimPgnFlag": 1,
+                "MaxSimpTol": 0.00899322046076,
+                "MinSimpTol": 0.00899322046076,
+                "x": 122.573228582,
+                "y": 41.1606760456
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.874844692,
+                    26.8152249783
+                ]
+            },
+            "properties": {
+                "OBJECTID_1": 6,
+                "OBJECTID": 6,
+                "TYPE": 100,
+                "SUBTYPE": 100,
+                "NAME": "贵州省",
+                "GB": 520000,
+                "AREA": "180000平方公里",
+                "Shape_Leng": 39.3687695576,
+                "Shape_Le_1": 33.8137016422,
+                "Shape_Area": 15.9857813917,
+                "InPoly_FID": 6,
+                "SimPgnFlag": 1,
+                "MaxSimpTol": 0.00899322046076,
+                "MinSimpTol": 0.00899322046076,
+                "x": 106.874844692,
+                "y": 26.8152249783
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.134577561,
+                    26.0325393068
+                ]
+            },
+            "properties": {
+                "OBJECTID_1": 7,
+                "OBJECTID": 7,
+                "TYPE": 100,
+                "SUBTYPE": 100,
+                "NAME": "福建省",
+                "GB": 350000,
+                "AREA": "120000平方公里",
+                "Shape_Leng": 23.658975382,
+                "Shape_Le_1": 21.6043190679,
+                "Shape_Area": 12.2453894036,
+                "InPoly_FID": 7,
+                "SimPgnFlag": 1,
+                "MaxSimpTol": 0.00899322046076,
+                "MinSimpTol": 0.00899322046076,
+                "x": 118.134577561,
+                "y": 26.0325393068
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.61714121,
+                    37.8736693768
+                ]
+            },
+            "properties": {
+                "OBJECTID_1": 8,
+                "OBJECTID": 8,
+                "TYPE": 100,
+                "SUBTYPE": 100,
+                "NAME": "甘肃省",
+                "GB": 620000,
+                "AREA": "430000平方公里",
+                "Shape_Leng": 87.097598536,
+                "Shape_Le_1": 79.9550981338,
+                "Shape_Area": 43.5792649539,
+                "InPoly_FID": 8,
+                "SimPgnFlag": 1,
+                "MaxSimpTol": 0.00899322046076,
+                "MinSimpTol": 0.00899322046076,
+                "x": 100.61714121,
+                "y": 37.8736693768
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    111.708641453,
+                    27.6098320047
+                ]
+            },
+            "properties": {
+                "OBJECTID_1": 9,
+                "OBJECTID": 9,
+                "TYPE": 100,
+                "SUBTYPE": 100,
+                "NAME": "湖南省",
+                "GB": 430000,
+                "AREA": "210000平方公里",
+                "Shape_Leng": 37.4117370973,
+                "Shape_Le_1": 32.7195046349,
+                "Shape_Area": 19.3678546148,
+                "InPoly_FID": 9,
+                "SimPgnFlag": 1,
+                "MaxSimpTol": 0.00899322046076,
+                "MinSimpTol": 0.00899322046076,
+                "x": 111.708641453,
+                "y": 27.6098320047
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    112.271490834,
+                    30.9754284052
+                ]
+            },
+            "properties": {
+                "OBJECTID_1": 10,
+                "OBJECTID": 10,
+                "TYPE": 100,
+                "SUBTYPE": 100,
+                "NAME": "湖北省",
+                "GB": 420000,
+                "AREA": "190000平方公里",
+                "Shape_Leng": 39.1239637231,
+                "Shape_Le_1": 34.568779303,
+                "Shape_Area": 17.5618442027,
+                "InPoly_FID": 10,
+                "SimPgnFlag": 1,
+                "MaxSimpTol": 0.00899322046076,
+                "MinSimpTol": 0.00899322046076,
+                "x": 112.271490834,
+                "y": 30.9754284052
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.438474424,
+                    29.2505640003
+                ]
+            },
+            "properties": {
+                "OBJECTID_1": 11,
+                "OBJECTID": 11,
+                "TYPE": 100,
+                "SUBTYPE": 100,
+                "NAME": "浙江省",
+                "GB": 330000,
+                "AREA": "100000平方公里",
+                "Shape_Leng": 22.3444565007,
+                "Shape_Le_1": 20.3495397964,
+                "Shape_Area": 11.9849411651,
+                "InPoly_FID": 11,
+                "SimPgnFlag": 1,
+                "MaxSimpTol": 0.00899322046076,
+                "MinSimpTol": 0.00899322046076,
+                "x": 120.438474424,
+                "y": 29.2505640003
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.614225053,
+                    33.8818126998
+                ]
+            },
+            "properties": {
+                "OBJECTID_1": 12,
+                "OBJECTID": 12,
+                "TYPE": 100,
+                "SUBTYPE": 100,
+                "NAME": "河南省",
+                "GB": 410000,
+                "AREA": "170000平方公里",
+                "Shape_Leng": 34.9461661847,
+                "Shape_Le_1": 30.7586008411,
+                "Shape_Area": 16.1453860691,
+                "InPoly_FID": 12,
+                "SimPgnFlag": 1,
+                "MaxSimpTol": 0.00899322046076,
+                "MinSimpTol": 0.00899322046076,
+                "x": 113.614225053,
+                "y": 33.8818126998
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    116.171008333,
+                    39.5446223469
+                ]
+            },
+            "properties": {
+                "OBJECTID_1": 13,
+                "OBJECTID": 13,
+                "TYPE": 100,
+                "SUBTYPE": 100,
+                "NAME": "河北省",
+                "GB": 130000,
+                "AREA": "190000平方公里",
+                "Shape_Leng": 52.4819530978,
+                "Shape_Le_1": 46.6639866363,
+                "Shape_Area": 19.958280033,
+                "InPoly_FID": 13,
+                "SimPgnFlag": 1,
+                "MaxSimpTol": 0.00899322046076,
+                "MinSimpTol": 0.00899322046076,
+                "x": 116.171008333,
+                "y": 39.5446223469
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    115.722071659,
+                    27.6134495998
+                ]
+            },
+            "properties": {
+                "OBJECTID_1": 14,
+                "OBJECTID": 14,
+                "TYPE": 100,
+                "SUBTYPE": 100,
+                "NAME": "江西省",
+                "GB": 360000,
+                "AREA": "170000平方公里",
+                "Shape_Leng": 30.3941717645,
+                "Shape_Le_1": 26.9093536756,
+                "Shape_Area": 15.2661681951,
+                "InPoly_FID": 14,
+                "SimPgnFlag": 1,
+                "MaxSimpTol": 0.00899322046076,
+                "MinSimpTol": 0.00899322046076,
+                "x": 115.722071659,
+                "y": 27.6134495998
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    119.511471608,
+                    32.9833247802
+                ]
+            },
+            "properties": {
+                "OBJECTID_1": 15,
+                "OBJECTID": 15,
+                "TYPE": 100,
+                "SUBTYPE": 100,
+                "NAME": "江苏省",
+                "GB": 320000,
+                "AREA": "100000平方公里",
+                "Shape_Leng": 27.7815629113,
+                "Shape_Le_1": 24.7310872536,
+                "Shape_Area": 10.2586415008,
+                "InPoly_FID": 15,
+                "SimPgnFlag": 1,
+                "MaxSimpTol": 0.00899322046076,
+                "MinSimpTol": 0.00899322046076,
+                "x": 119.511471608,
+                "y": 32.9833247802
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    85.2210036129,
+                    41.1174704136
+                ]
+            },
+            "properties": {
+                "OBJECTID_1": 16,
+                "OBJECTID": 16,
+                "TYPE": 100,
+                "SUBTYPE": 100,
+                "NAME": "新疆维吾尔族自治区",
+                "GB": 650000,
+                "AREA": "1660000平方公里",
+                "Shape_Leng": 90.409773131,
+                "Shape_Le_1": 83.4996706684,
+                "Shape_Area": 174.743025902,
+                "InPoly_FID": 16,
+                "SimPgnFlag": 1,
+                "MaxSimpTol": 0.00899322046076,
+                "MinSimpTol": 0.00899322046076,
+                "x": 85.2210036129,
+                "y": 41.1174704136
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    108.790479301,
+                    23.8063659667
+                ]
+            },
+            "properties": {
+                "OBJECTID_1": 17,
+                "OBJECTID": 17,
+                "TYPE": 100,
+                "SUBTYPE": 100,
+                "NAME": "广西壮族自治区",
+                "GB": 450000,
+                "AREA": "240000平方公里",
+                "Shape_Leng": 40.7617880741,
+                "Shape_Le_1": 35.701993442,
+                "Shape_Area": 21.1769599004,
+                "InPoly_FID": 17,
+                "SimPgnFlag": 1,
+                "MaxSimpTol": 0.00899322046076,
+                "MinSimpTol": 0.00899322046076,
+                "x": 108.790479301,
+                "y": 23.8063659667
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.383031166,
+                    23.2061746794
+                ]
+            },
+            "properties": {
+                "OBJECTID_1": 18,
+                "OBJECTID": 18,
+                "TYPE": 100,
+                "SUBTYPE": 100,
+                "NAME": "广东省",
+                "GB": 440000,
+                "AREA": "180000平方公里",
+                "Shape_Leng": 34.892133296,
+                "Shape_Le_1": 32.1182859957,
+                "Shape_Area": 17.251570884,
+                "InPoly_FID": 18,
+                "SimPgnFlag": 1,
+                "MaxSimpTol": 0.00899322046076,
+                "MinSimpTol": 0.00899322046076,
+                "x": 113.383031166,
+                "y": 23.2061746794
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    112.289136177,
+                    37.5726427704
+                ]
+            },
+            "properties": {
+                "OBJECTID_1": 19,
+                "OBJECTID": 19,
+                "TYPE": 100,
+                "SUBTYPE": 100,
+                "NAME": "山西省",
+                "GB": 140000,
+                "AREA": "160000平方公里",
+                "Shape_Leng": 27.056851806,
+                "Shape_Le_1": 24.7183654417,
+                "Shape_Area": 15.9928763041,
+                "InPoly_FID": 19,
+                "SimPgnFlag": 1,
+                "MaxSimpTol": 0.00899322046076,
+                "MinSimpTol": 0.00899322046076,
+                "x": 112.289136177,
+                "y": 37.5726427704
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.335256492,
+                    36.3852766468
+                ]
+            },
+            "properties": {
+                "OBJECTID_1": 20,
+                "OBJECTID": 20,
+                "TYPE": 100,
+                "SUBTYPE": 100,
+                "NAME": "山东省",
+                "GB": 370000,
+                "AREA": "160000平方公里",
+                "Shape_Leng": 30.8444865733,
+                "Shape_Le_1": 29.3507302756,
+                "Shape_Area": 16.9142337999,
+                "InPoly_FID": 20,
+                "SimPgnFlag": 1,
+                "MaxSimpTol": 0.00899322046076,
+                "MinSimpTol": 0.00899322046076,
+                "x": 118.335256492,
+                "y": 36.3852766468
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    117.226237213,
+                    31.8253897661
+                ]
+            },
+            "properties": {
+                "OBJECTID_1": 21,
+                "OBJECTID": 21,
+                "TYPE": 100,
+                "SUBTYPE": 100,
+                "NAME": "安徽省",
+                "GB": 340000,
+                "AREA": "140000平方公里",
+                "Shape_Leng": 33.3849985405,
+                "Shape_Le_1": 29.05553308,
+                "Shape_Area": 13.3451070951,
+                "InPoly_FID": 21,
+                "SimPgnFlag": 1,
+                "MaxSimpTol": 0.00899322046076,
+                "MinSimpTol": 0.00899322046076,
+                "x": 117.226237213,
+                "y": 31.8253897661
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.164993852,
+                    37.2638864409
+                ]
+            },
+            "properties": {
+                "OBJECTID_1": 22,
+                "OBJECTID": 22,
+                "TYPE": 100,
+                "SUBTYPE": 100,
+                "NAME": "宁夏回族自治区",
+                "GB": 640000,
+                "AREA": "66000平方公里",
+                "Shape_Leng": 20.7407790731,
+                "Shape_Le_1": 18.6417146629,
+                "Shape_Area": 5.23666921658,
+                "InPoly_FID": 22,
+                "SimPgnFlag": 1,
+                "MaxSimpTol": 0.00899322046076,
+                "MinSimpTol": 0.00899322046076,
+                "x": 106.164993852,
+                "y": 37.2638864409
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    117.34017449,
+                    39.2915087144
+                ]
+            },
+            "properties": {
+                "OBJECTID_1": 23,
+                "OBJECTID": 23,
+                "TYPE": 100,
+                "SUBTYPE": 100,
+                "NAME": "天津市",
+                "GB": 120000,
+                "AREA": "12000平方公里",
+                "Shape_Leng": 9.61784153911,
+                "Shape_Le_1": 7.7066514047,
+                "Shape_Area": 1.26171017162,
+                "InPoly_FID": 23,
+                "SimPgnFlag": 1,
+                "MaxSimpTol": 0.00899322046076,
+                "MinSimpTol": 0.00899322046076,
+                "x": 117.34017449,
+                "y": 39.2915087144
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    102.694745736,
+                    30.6275323796
+                ]
+            },
+            "properties": {
+                "OBJECTID_1": 24,
+                "OBJECTID": 24,
+                "TYPE": 100,
+                "SUBTYPE": 100,
+                "NAME": "四川省",
+                "GB": 510000,
+                "AREA": "490000平方公里",
+                "Shape_Leng": 66.3331907576,
+                "Shape_Le_1": 58.6667417493,
+                "Shape_Area": 45.7183029655,
+                "InPoly_FID": 24,
+                "SimPgnFlag": 1,
+                "MaxSimpTol": 0.00899322046076,
+                "MinSimpTol": 0.00899322046076,
+                "x": 102.694745736,
+                "y": 30.6275323796
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    126.191053265,
+                    43.6668303141
+                ]
+            },
+            "properties": {
+                "OBJECTID_1": 25,
+                "OBJECTID": 25,
+                "TYPE": 100,
+                "SUBTYPE": 100,
+                "NAME": "吉林省",
+                "GB": 220000,
+                "AREA": "190000平方公里",
+                "Shape_Leng": 45.4374990303,
+                "Shape_Le_1": 40.3515263779,
+                "Shape_Area": 21.3198766881,
+                "InPoly_FID": 25,
+                "SimPgnFlag": 1,
+                "MaxSimpTol": 0.00899322046076,
+                "MinSimpTol": 0.00899322046076,
+                "x": 126.191053265,
+                "y": 43.6668303141
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    116.412190182,
+                    40.1839620636
+                ]
+            },
+            "properties": {
+                "OBJECTID_1": 26,
+                "OBJECTID": 26,
+                "TYPE": 100,
+                "SUBTYPE": 100,
+                "NAME": "北京市",
+                "GB": 110000,
+                "AREA": "17000平方公里",
+                "Shape_Leng": 9.49743502847,
+                "Shape_Le_1": 8.55945008414,
+                "Shape_Area": 1.73636479136,
+                "InPoly_FID": 26,
+                "SimPgnFlag": 1,
+                "MaxSimpTol": 0.00899322046076,
+                "MinSimpTol": 0.00899322046076,
+                "x": 116.412190182,
+                "y": 40.1839620636
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.918017522,
+                    44.0879516231
+                ]
+            },
+            "properties": {
+                "OBJECTID_1": 27,
+                "OBJECTID": 27,
+                "TYPE": 100,
+                "SUBTYPE": 100,
+                "NAME": "内蒙古自治区",
+                "GB": 150000,
+                "AREA": "1180000平方公里",
+                "Shape_Leng": 137.894378281,
+                "Shape_Le_1": 127.786276704,
+                "Shape_Area": 129.117421871,
+                "InPoly_FID": 27,
+                "SimPgnFlag": 1,
+                "MaxSimpTol": 0.00899322046076,
+                "MinSimpTol": 0.00899322046076,
+                "x": 113.918017522,
+                "y": 44.0879516231
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    101.486418283,
+                    24.9754853809
+                ]
+            },
+            "properties": {
+                "OBJECTID_1": 28,
+                "OBJECTID": 28,
+                "TYPE": 100,
+                "SUBTYPE": 100,
+                "NAME": "云南省",
+                "GB": 530000,
+                "AREA": "390000平方公里",
+                "Shape_Leng": 63.9915327879,
+                "Shape_Le_1": 56.7735110428,
+                "Shape_Area": 34.2817823297,
+                "InPoly_FID": 28,
+                "SimPgnFlag": 1,
+                "MaxSimpTol": 0.00899322046076,
+                "MinSimpTol": 0.00899322046076,
+                "x": 101.486418283,
+                "y": 24.9754853809
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.505387007,
+                    31.2031511757
+                ]
+            },
+            "properties": {
+                "OBJECTID_1": 29,
+                "OBJECTID": 29,
+                "TYPE": 100,
+                "SUBTYPE": 100,
+                "NAME": "上海市",
+                "GB": 310000,
+                "AREA": "6340平方公里",
+                "Shape_Leng": 5.52577014149,
+                "Shape_Le_1": 4.76280555095,
+                "Shape_Area": 0.870086467679,
+                "InPoly_FID": 29,
+                "SimPgnFlag": 1,
+                "MaxSimpTol": 0.00899322046076,
+                "MinSimpTol": 0.00899322046076,
+                "x": 121.505387007,
+                "y": 31.2031511757
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    88.449087198,
+                    31.4890522858
+                ]
+            },
+            "properties": {
+                "OBJECTID_1": 30,
+                "OBJECTID": 30,
+                "TYPE": 100,
+                "SUBTYPE": 100,
+                "NAME": "西藏自治区",
+                "GB": 540000,
+                "AREA": "1230000平方公里",
+                "Shape_Leng": 83.0672980708,
+                "Shape_Le_1": 75.4441114521,
+                "Shape_Area": 114.209442043,
+                "InPoly_FID": 30,
+                "SimPgnFlag": 1,
+                "MaxSimpTol": 0.00899322046076,
+                "MinSimpTol": 0.00899322046076,
+                "x": 88.449087198,
+                "y": 31.4890522858
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    109.743655428,
+                    19.1952757498
+                ]
+            },
+            "properties": {
+                "OBJECTID_1": 31,
+                "OBJECTID": 31,
+                "TYPE": 100,
+                "SUBTYPE": 100,
+                "NAME": "海南省",
+                "GB": 460000,
+                "AREA": "34000平方公里",
+                "Shape_Leng": 17.7394814996,
+                "Shape_Le_1": 13.2000587594,
+                "Shape_Area": 2.91414157697,
+                "InPoly_FID": 31,
+                "SimPgnFlag": 0,
+                "MaxSimpTol": 0.00899322046076,
+                "MinSimpTol": 0.00899322046076,
+                "x": 109.743655428,
+                "y": 19.1952757498
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.970087482,
+                    23.7525764076
+                ]
+            },
+            "properties": {
+                "OBJECTID_1": 32,
+                "OBJECTID": 32,
+                "TYPE": 100,
+                "SUBTYPE": 100,
+                "NAME": "台湾省",
+                "GB": 710000,
+                "AREA": "",
+                "Shape_Leng": 10.4485559167,
+                "Shape_Le_1": 9.61259254551,
+                "Shape_Area": 3.16967934097,
+                "InPoly_FID": 32,
+                "SimPgnFlag": 0,
+                "MaxSimpTol": 0.00899322046076,
+                "MinSimpTol": 0.00899322046076,
+                "x": 120.970087482,
+                "y": 23.7525764076
+            }
+        }
+    ]
+}
