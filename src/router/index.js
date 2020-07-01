@@ -5,8 +5,9 @@ import VueRouter from 'vue-router'
 Vue.use(VueRouter)
 
   const routes = [
+    
   {
-    path: '/',
+    path: '/helloworld',
     name: 'helloworld',
     component: () => import('@/views/helloworld.vue')
   },
@@ -44,12 +45,29 @@ Vue.use(VueRouter)
     path:'/geojson',
     name:'geojson',
     component:() => import('@/views/geojson.vue')
+  },
+  { //圆形扫描
+    path:'/circularScan',
+    name:'circularScan',
+    component:() => import('@/views/circularScan.vue')
+  },
+  {//雷达扫描
+    path:'/radarScan',
+    name:'radarScan',
+    component:() => import('@/views/radarScan.vue')
+  },
+  {
+    path:'/',
+    name:'doubleCircleRipple',
+    component:() => import('@/views/doubleCircleRipple.vue')
   }
 ]
 
 const router = new VueRouter({
-  mode:'history',
+  mode:'hash', //hash history
+  base:'/',
   routes
+ 
 })
 
 export default router

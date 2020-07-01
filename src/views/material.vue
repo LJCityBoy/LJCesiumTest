@@ -96,6 +96,10 @@ export default {
         }
       });
       self.viewer.zoomTo(politLine);
+
+
+
+
     }
   },
   destroyed() {}

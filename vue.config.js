@@ -2,6 +2,7 @@
 const path = require('path')
 
 const CopyWebpackPlugin = require('copy-webpack-plugin')
+const ExtractTextPlugin = require("extract-text-webpack-plugin");
 const webpack = require('webpack')
 //引入cesium资源包
 let cesiumSource = './node_modules/cesium/Source'
@@ -28,7 +29,7 @@ module.exports = {
             filename: 'index.html',
             // 当使用 title 选项时，
             // template 中的 title 标签需要是 <title><%= htmlWebpackPlugin.options.title %></title>
-            title: 'Index Page',
+            title: 'LJCesium',
             // 在这个页面中包含的块，默认情况下会包含
             // 提取出来的通用 chunk 和 vendor chunk。
             chunks: ['chunk-vendors', 'chunk-common', 'index']
@@ -70,23 +71,24 @@ module.exports = {
                 //   'THREE': require.resolve('three')
             })
         ],
+       
         module: {
             unknownContextCritical: /^.\/.*$/,
             unknownContextCritical: false
+        },
 
-        }
     },
-    devServer:{
-          open: process.platform === 'darwin',
+    devServer: {
+        open: process.platform === 'darwin',
 
-        host: '0.0.0.0',
+        host: '0.0.0.0',
 
-        port: 8081,
+        port: 8081,
 
-        https: false,
+        https: false,
 
-        hotOnly: false,
-        // proxy:'http://localhost:8081'
-        
+        hotOnly: false,
+        // proxy:'/'
+
     }
 }
